@@ -1,0 +1,2 @@
+# SpartanCO.github.io
+website
